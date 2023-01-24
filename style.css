@@ -92,3 +92,8 @@ header{
     line-height: 125%;
     color: #E1E1E6;
 }
+
+.card ul li strong:hover ,
+.card ul  li img {
+    transition: transform 0.3s;
+}
